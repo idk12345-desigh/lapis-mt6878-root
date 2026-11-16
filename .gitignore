@@ -1,0 +1,7 @@
+# binaries are intentionally committed (small, static, ARM64)
+*.o
+*.zip
+*.tgz
+ksud
+seccfg_backup*.bin
+*.log
